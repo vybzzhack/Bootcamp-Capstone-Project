@@ -1,0 +1,5 @@
+requests
+kafka-python
+pyspark
+pymongo  #for MongoDB
+confluent-kafka  
